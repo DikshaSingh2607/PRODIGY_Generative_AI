@@ -9,7 +9,7 @@ I am participating in the **Generative AI Internship** at **Prodigy InfoTech** f
 - **Company:** Prodigy InfoTech 🏢  
 - **Location:** Remote 🌐  
 
-<img src="main.png" >
+<img src="main.png.png" >
 
 ## Learning Objectives
 During this internship, my goals are to:
