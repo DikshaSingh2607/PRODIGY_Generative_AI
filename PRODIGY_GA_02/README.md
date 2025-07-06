@@ -19,7 +19,7 @@ This task involves:
 - 📐 Experimenting with different image aspect ratios using **VQGAN+CLIP**.
 - 🚀 Applying performance optimizations like **XLA compilation** and **mixed precision computation** for faster image generation.
 
-<img src="task 2.png" >
+<img src="task2.png" >
 
 ## 🔧 Setup Instructions
 
